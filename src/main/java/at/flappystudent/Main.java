@@ -5,6 +5,5 @@ public class Main {
 // Hallo ich bin ein Testfeld
         // ist das genial <3
         // ist das genial²
-        // Julian
     }
 }
