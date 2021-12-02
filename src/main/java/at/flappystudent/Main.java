@@ -6,6 +6,5 @@ public class Main {
         // ist das genial <3
         // ist das genial²
         //fun, so much fung
-        //Testing one two
     }
 }
